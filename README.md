@@ -20,13 +20,13 @@ app.set('view engine', 'tmpl')
 
 ## Attributions
 
-Underscore.js 1.8.2
-   http://underscorejs.org
-   (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
-   MIT Licensed
-Consolidate.js 0.12.0
-   Copyright(c) 2012 TJ Holowaychuk <tj@vision-media.ca>
-   MIT Licensed
+- Underscore.js 1.8.2
+   - http://underscorejs.org
+   - (c) 2009-2015 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+   - MIT Licensed
+- Consolidate.js 0.12.0
+   - Copyright(c) 2012 TJ Holowaychuk <tj@vision-media.ca>
+   - MIT Licensed
 
 ## License
 
