@@ -1,0 +1,27 @@
+{
+  "name": "node-server-templates",
+  "version": "0.0.1",
+  "description": "Optimized express serverside Underscore based templates, using consolidate like logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronNGray/node-server-templates.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "serverside",
+    "templating",
+    "underscore",
+    "consolidate"
+  ],
+  "author": "AaronNGray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaronNGray/node-server-templates/issues"
+  },
+  "homepage": "https://github.com/AaronNGray/node-server-templates"
+}
